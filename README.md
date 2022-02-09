@@ -13,6 +13,10 @@
     src="https://img.shields.io/badge/Code_Challenge-D3-%23000000"
     alt="D3 Challenge" 
    />
+  <img 
+    src="https://img.shields.io/badge/Challenge-Total%3A%207%20%7C%207%20%E2%9C%85-%23000000"
+    alt="Tests" 
+   />
 </p>
 
 ![cover](./assets/cover.png?style=flat)
