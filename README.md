@@ -51,6 +51,10 @@ Application developed to have a basis to predict a possible contagion of covid d
 
 You can view the project layout through this [link](https://www.google.com). It is necessary to have an account [Figma](http://figma.com/) to access.
 
+## 💻 Challenge Proposal
+
+![cover](./assets/challenge.svg?style=flat)
+
 ## Running the project
 
 Use **yarn** or **npm install** to install project dependencies.
@@ -67,10 +71,6 @@ or
 ```cl
 npm init
 ```
-
-## 💻 Challenge Proposal
-
-![cover](./assets/challenge.svg?style=flat)
 
 ## 📄 License
 
