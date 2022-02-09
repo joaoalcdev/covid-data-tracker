@@ -19,7 +19,7 @@
    />
 </p>
 
-![cover](./assets/cover.png?style=flat)
+![cover](./assets/cover.mov?style=flat)
 
 ## 💻 Project
 
