@@ -1,6 +1,6 @@
 <div align="center">
   <h1>
-    <p text-align="">D3</p> <img alt="D3 Logo" height="80" title="Plant Manager" src="./assets/logo.svg" /> 
+    <p text-align="">D3 Code Challenge</p> <img alt="D3 Logo" height="80" title="Plant Manager" src="./assets/logo.svg" /> 
   </h1>
 </div>
 
