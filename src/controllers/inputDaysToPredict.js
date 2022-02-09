@@ -7,7 +7,7 @@ function inputDaysToPredict(){
 
       return numericInput > 0 && Number.isInteger(numericInput);
     },
-    limitMessage: 'Hey, $<input> is a invalid value number!'
+    limitMessage: 'Hey, $<lastInput> is a invalid value number!'
   });
 }
 
