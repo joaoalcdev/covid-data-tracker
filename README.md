@@ -1,12 +1,11 @@
 <h1 align="center">
-  <img alt="D3 Logo" height="80" title="Plant Manager" src="./assets/logo.svg" />
+  <img alt="D3 Logo" height="80" title="Plant Manager" src="./assets/logo.svg" /> <h1>D3</h1>
 </h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Challenge-D3-%23000000" alt="License" />
 
   <img src="https://img.shields.io/badge/Challenge-D3-%23000000" alt="D3 Challenge" />
-  [![Generic badge](https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg)](https://www.google.com/)
 </p>
 
 ![cover](./assets/cover.png?style=flat)
@@ -32,6 +31,10 @@ Application developed to have a basis to predict a possible contagion of covid d
 - [ x ] Axios
 - [ x ] Dayjs
 - [ x ] Readline Sync
+
+## 🔨 Project Architecture Proposal
+
+...
 
 ## 🔖 Layout
 
