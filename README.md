@@ -27,21 +27,21 @@ Application developed to have a basis to predict a possible contagion of covid d
 
 ## :hammer_and_wrench: Features
 
-- [ x ] OurWolrdInData API's Covid19.
-- [ x ] Connection to OurWolrdInData Covid19 Database;
-- [ x ] Node.js application console input;
-- [ x ] Node.js application result on console;
-- [ x ] Covid 19 contagion forecast in the world.
+- [x] OurWolrdInData API's Covid19.
+- [x] Connection to OurWolrdInData Covid19 Database;
+- [x] Node.js application console input;
+- [x] Node.js application result on console;
+- [x] Covid 19 contagion forecast in the world.
 
 ## ✨ Technologies
 
-- [ x ] Javascript
-- [ x ] Node.js
-- [ x ] Yarn
-- [ x ] Jest
-- [ x ] Axios
-- [ x ] Dayjs
-- [ x ] Readline Sync
+- [x] Javascript
+- [x] Node.js
+- [x] Yarn
+- [x] Jest
+- [x] Axios
+- [x] Dayjs
+- [x] Readline Sync
 
 ## 🔨 Project Architecture Proposal
 
