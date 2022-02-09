@@ -1,10 +1,10 @@
 const inputDaysToPredict = require('./controllers/inputDaysToPredict');
-const forecastTheNextDays = require('./controllers/forecastTheNextDays');
+const predictTheNextDays = require('./controllers/predictTheNextDays');
 
 async function start() {
   const days = inputDaysToPredict()
 
-  await forecastTheNextDays(days)
+  await predictTheNextDays(days)
 }
 
 start()
