@@ -10,9 +10,10 @@ describe('Data from the public API of "Our World In Data"', () => {
     const { new_cases: yesterdayCases } = yesterday
 
     expect(yesterdayCases).toBeGreaterThan(0)
+    // Ok ✅
   })
 
-  test('✅ OK | 2022/02/08 cases is equal to 2239959', async () => {
+  test('2022/02/08 cases is equal to 2239959', async () => {
     // Date = YYYY/MM/DD
     const data = await fetchDataFromAPI()
     const date = confirmDate(new Date('2022/02/08'))
