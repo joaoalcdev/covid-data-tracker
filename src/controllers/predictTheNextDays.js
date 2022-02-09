@@ -1,4 +1,4 @@
-const fetchDataFromAPI = require("../services/fetchDataFromAPI");
+const fetchDataFromAPI = require("../services/fetchDataAPI");
 
 const confirmDate = require("../helpers/confirmDate");
 
