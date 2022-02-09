@@ -64,6 +64,10 @@ or
 npm init
 ```
 
+## 💻 Challenge Proposal
+
+![cover](./assets/challenge.png?style=flat)
+
 ## 📄 License
 
 This project is under MIT license. See the file [LICENSE](./LICENSE) for more details.
