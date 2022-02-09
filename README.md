@@ -1,6 +1,8 @@
-<h1 align="center">
-  <p align="center">D3</p> <img alt="D3 Logo" height="80" title="Plant Manager" src="./assets/logo.svg" /> 
-</h1>
+<div align="center">
+  <h1>
+    <p text-align="">D3</p> <img alt="D3 Logo" height="80" title="Plant Manager" src="./assets/logo.svg" /> 
+  </h1>
+</div>
 
 <p align="center">
   <img 
