@@ -1,12 +1,12 @@
 const fetchDataFromAPI = require("../services/fetchDataFromAPI");
 
-const ensureDate = require("../helpers/confirmDate");
+const confirmDate = require("../helpers/confirmDate");
 
-async function ensureDaysToCome(days) {
+async function predictTheNextDays(days) {
   const data = await fetchDataFromAPI();
 
-  const currentData = ensureDate(new Date());
-  // const currentData = "2021-08-01" fixed value;
+  const currentData = confirmDate(new Date());
+  // const currentData = "2021-08-01";
 
   try {
     const index = data.findIndex((data) => data.date === currentData);
@@ -35,8 +35,8 @@ async function ensureDaysToCome(days) {
       console.log(`${i} => ${newCases}`);
     }
   } catch (error) {
-    console.log(error);
+    console.log("add error msg");
   }
 }
 
-module.exports = ensureDaysToCome;
+module.exports = predictTheNextDays;
