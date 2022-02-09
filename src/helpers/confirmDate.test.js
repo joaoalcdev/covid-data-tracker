@@ -6,6 +6,9 @@ describe('formatted date from 1 day before: (YYYY-MM-DD) = {(yesterday) - 1}', (
     // Ok ✅
   })
 
-  
+  test('when send giving 08/11/2021, returning 08/10/2021 formatted date', () => {
+    expect(confirmDate(new Date('08/11/2021'))).toBe('2021-08-10')
+    // Ok ✅
+  })
   
 })
