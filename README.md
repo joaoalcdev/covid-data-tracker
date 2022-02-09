@@ -66,7 +66,7 @@ npm init
 
 ## 💻 Challenge Proposal
 
-![cover](./assets/challenge.png?style=flat)
+![cover](./assets/challenge.svg?style=flat)
 
 ## 📄 License
 
