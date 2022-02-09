@@ -12,7 +12,7 @@ describe('Data from the public API of "Our World In Data"', () => {
   //   expect(yesterdayCases).toBeGreaterThan(0)
   // })
 
-  test('04/12/2021 cases is equal to 690431', async () => {
+  test('✅ OK | 04/12/2021 cases is equal to 690431', async () => {
     const data = await fetchDataFromAPI()
     const date = confirmDate(new Date('04/12/2021'))
 
@@ -22,4 +22,5 @@ describe('Data from the public API of "Our World In Data"', () => {
     expect(cases).toEqual(690431)
     // Ok ✅ 
   })
+  jest.setTimeout(12000)
 })
