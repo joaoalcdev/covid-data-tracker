@@ -1,11 +1,16 @@
 <h1 align="center">
-  <img alt="D3 Logo" height="80" title="Plant Manager" src="./assets/logo.svg" /> <h1>D3</h1>
+  D3 <img alt="D3 Logo" height="80" title="Plant Manager" src="./assets/logo.svg" /> 
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Challenge-D3-%23000000" alt="License" />
-
-  <img src="https://img.shields.io/badge/Challenge-D3-%23000000" alt="D3 Challenge" />
+  <img 
+    src="https://img.shields.io/cocoapods/l/m?color=%23000000&label=license&logo=license&logoColor=%23ffffff" 
+    alt="License" 
+  />
+  <img 
+    src="https://img.shields.io/badge/Challenge-D3-%23000000"
+    alt="D3 Challenge" 
+   />
 </p>
 
 ![cover](./assets/cover.png?style=flat)
