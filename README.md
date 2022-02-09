@@ -10,7 +10,7 @@
     alt="License" 
   />
   <img 
-    src="https://img.shields.io/badge/Challenge-D3-%23000000"
+    src="https://img.shields.io/badge/Code_Challenge-D3-%23000000"
     alt="D3 Challenge" 
    />
 </p>
