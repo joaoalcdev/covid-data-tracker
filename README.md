@@ -20,8 +20,10 @@
 </p>
 
 <div align="center">
+
   ![Click here to watch the project demo video](https://youtu.be/xZ-4Mbft59Q)
   ![cover](./assets/cover.svg?style=flat)
+  
 </div>
 
 ## 💻 Project
