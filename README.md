@@ -19,14 +19,14 @@
    />
 </p>
 
-## 📷 Demonstration
+## 📷 Demonstration:
 
 <div align="center">
   <h1 align="center">
 
-  [Click here](https://youtu.be/xZ-4Mbft59Q) to watch the project demo video.
+[Click here](https://youtu.be/xZ-4Mbft59Q) to watch the project demo video.
 
-  <img 
+<img 
     src="./assets/cover.gif?style=flat"
     alt="Cover Project" 
   />
@@ -34,11 +34,11 @@
   </h1>
 </div>
 
-## 💻 Project
+## 💻 Project:
 
 Application developed to have a basis to predict a possible contagion of covid during the next few days.
 
-## :hammer_and_wrench: Features
+## :hammer_and_wrench: Features:
 
 - [x] OurWolrdInData API's Covid19.
 - [x] Connection to OurWolrdInData Covid19 Database;
@@ -46,7 +46,7 @@ Application developed to have a basis to predict a possible contagion of covid d
 - [x] Node.js application result on console;
 - [x] Covid 19 contagion forecast in the world.
 
-## ✨ Technologies
+## ✨ Technologies:
 
 - [x] Javascript
 - [x] Node.js
@@ -56,23 +56,29 @@ Application developed to have a basis to predict a possible contagion of covid d
 - [x] Dayjs
 - [x] Readline Sync
 
-## 🔨 Architecture and Infrastructure for the Project
+## ⌛️ Times destined for D3 Code Challenge:
+
+- Total hours since the first folder was created ≅ 34 hours, 20 minutes.
+- Total hours worked on the project ≅ 25 hours.
+- Total hours worked directly ≅ 8 hours, 20 minutes with intervals of two to three hours.
+
+## 🔨 Architecture and Infrastructure for the Project:
 
 - Architecture:
   I would choose serverless as a viable option for this job. I would use a 'Function as a Service' (FaaS) like AWS Lambda. Serverless is a software and application design approach that allows developers to create and run services without having to manage and "configure" the work environment, as serverless as a cloud provider can predict and configure servers for future execution of their applications. , database and cloud storage systems as a function of scale.
 
 - Infrastructure:
-  An application's infrastructure is based on performance, user experience, user interface experience, and structuring. Given this, a current application infrastructure would have a graphical interface for a better experience and usability of the system, thus improving the user experience. So for that, the interface would call a serverless function that can serve, Cloud Functions or Lambda Functions with a cache like a Redis, for example, for in-memory data. We can use React.Js or Next.Js and Node.js with libraries to create graphs with the result values ​​entered and executed in the backend by the APIs. Hosting by Vercel is interesting, as the platform creates and configures the serverless environment. I would use centry to capture possible errors that can happen in the application and together with that, we could use Jest to create automated testing services and code verification. 
+  An application's infrastructure is based on performance, user experience, user interface experience, and structuring. Given this, a current application infrastructure would have a graphical interface for a better experience and usability of the system, thus improving the user experience. So for that, the interface would call a serverless function that can serve, Cloud Functions or Lambda Functions with a cache like a Redis, for example, for in-memory data. We can use React.Js or Next.Js and Node.js with libraries to create graphs with the result values ​​entered and executed in the backend by the APIs. Hosting by Vercel is interesting, as the platform creates and configures the serverless environment. I would use centry to capture possible errors that can happen in the application and together with that, we could use Jest to create automated testing services and code verification.
 
-## 🔖 Layout
+## 🔖 Layout:
 
 You can view the project layout through this [link](https://www.figma.com/file/JSBTu7MnPcRxoIdOE6Xp9u/D3-%7C-Code-Challange?node-id=0%3A1). It is necessary to have an account [Figma](http://figma.com/) to access.
 
-## 💻 Challenge Proposal
+## 💻 Challenge Proposal:
 
 ![cover](./assets/cover.svg?style=flat)
 
-## ⚙️ Running the project
+## ⚙️ Running the project:
 
 Use **yarn** or **npm install** to install project dependencies.
 Then start the project.
