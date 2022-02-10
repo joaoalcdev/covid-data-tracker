@@ -23,10 +23,10 @@
 
 <div align="center">
 
-[Click here](https://youtu.be/xZ-4Mbft59Q)to watch the project demo video.
+[Click here](https://youtu.be/xZ-4Mbft59Q) to watch the project demo video.
 
 <img 
-    src="./assets/cover.svg?style=flat"
+    src="./assets/cover.mov?style=flat"
     alt="Cover Project" 
    />
 
