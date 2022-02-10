@@ -19,7 +19,10 @@
    />
 </p>
 
-![cover](./assets/cover.mov?style=flat)
+<div align="center">
+  <h1>![Click here to watch the project demo video](https://youtu.be/xZ-4Mbft59Q)</h1>
+  ![cover](./assets/cover.svg?style=flat)
+</div>
 
 ## 💻 Project
 
@@ -43,13 +46,17 @@ Application developed to have a basis to predict a possible contagion of covid d
 - [x] Dayjs
 - [x] Readline Sync
 
-## 🔨 Project Architecture Proposal
+## 🔨 Architecture and Infrastructure for the Project
 
-...
+- Architecture:
+  I would choose serverless as a viable option for this job. I would use a 'Function as a Service' (FaaS) like AWS Lambda. Serverless is a software and application design approach that allows developers to create and run services without having to manage and "configure" the work environment, as serverless as a cloud provider can predict and configure servers for future execution of their applications. , database and cloud storage systems as a function of scale.
+
+- Infrastructure:
+  
 
 ## 🔖 Layout
 
-You can view the project layout through this [link](https://www.google.com). It is necessary to have an account [Figma](http://figma.com/) to access.
+You can view the project layout through this [link](https://www.figma.com/file/JSBTu7MnPcRxoIdOE6Xp9u/D3-%7C-Code-Challange?node-id=0%3A1). It is necessary to have an account [Figma](http://figma.com/) to access.
 
 ## 💻 Challenge Proposal
 
