@@ -3,7 +3,7 @@ const confirmDate = require('../helpers/confirmDate')
 
 describe('Data from the public API of "Our World In Data"', () => {
   test('yesterday cases greater than 0', async () => {
-    const data = await fetchDataFromAPI(new Date('2022/02/08'))
+    const data = await fetchDataFromAPI(new Date('2022/02/09'))
     const yesterdayDate = confirmDate(new Date())
 
     const yesterday = data.find(data => data.date === yesterdayDate)
@@ -13,15 +13,15 @@ describe('Data from the public API of "Our World In Data"', () => {
     // Ok ✅
   })
 
-  test('2022/02/08 cases is equal to 2239959', async () => {
+  test('2022/02/09 cases is equal to 3106504', async () => {
     // Date = YYYY/MM/DD
     const data = await fetchDataFromAPI()
-    const date = confirmDate(new Date('2022/02/08'))
+    const date = confirmDate(new Date('2022/02/09'))
 
     const day = data.find(data => data.date === date)
     const { new_cases: cases } = day
 
-    expect(cases).toEqual(2239959)
+    expect(cases).toEqual(3106504)
     // Ok ✅
   })
   jest.setTimeout(20000)
