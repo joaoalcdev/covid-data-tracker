@@ -27,7 +27,7 @@
   [Click here](https://youtu.be/xZ-4Mbft59Q) to watch the project demo video.
 
   <img 
-    src="./assets/cover.mov?style=flat"
+    src="./assets/cover.gif?style=flat"
     alt="Cover Project" 
   />
 
@@ -62,7 +62,7 @@ Application developed to have a basis to predict a possible contagion of covid d
   I would choose serverless as a viable option for this job. I would use a 'Function as a Service' (FaaS) like AWS Lambda. Serverless is a software and application design approach that allows developers to create and run services without having to manage and "configure" the work environment, as serverless as a cloud provider can predict and configure servers for future execution of their applications. , database and cloud storage systems as a function of scale.
 
 - Infrastructure:
-
+  An application's infrastructure is based on performance, user experience, user interface experience, and structuring. Given this, a current application infrastructure would have a graphical interface for a better experience and usability of the system, thus improving the user experience. So for that, the interface would call a serverless function that can serve, Cloud Functions or Lambda Functions with a cache like a Redis, for example, for in-memory data. We can use React.Js or Next.Js and Node.js with libraries to create graphs with the result values ​​entered and executed in the backend by the APIs. Hosting by Vercel is interesting, as the platform creates and configures the serverless environment. I would use centry to capture possible errors that can happen in the application and together with that, we could use Jest to create automated testing services and code verification. 
 
 ## 🔖 Layout
 
