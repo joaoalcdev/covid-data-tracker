@@ -63,13 +63,14 @@ Application developed to have a basis to predict a possible contagion of covid d
 
 - Infrastructure:
 
+
 ## 🔖 Layout
 
 You can view the project layout through this [link](https://www.figma.com/file/JSBTu7MnPcRxoIdOE6Xp9u/D3-%7C-Code-Challange?node-id=0%3A1). It is necessary to have an account [Figma](http://figma.com/) to access.
 
 ## 💻 Challenge Proposal
 
-![cover](./assets/challenge.svg?style=flat)
+![cover](./assets/cover.svg?style=flat)
 
 ## Running the project
 
