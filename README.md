@@ -19,7 +19,7 @@
    />
 </p>
 
-## Demonstration
+## 📷 Demonstration
 
 <div align="center">
   <h1 align="center">
@@ -72,7 +72,7 @@ You can view the project layout through this [link](https://www.figma.com/file/J
 
 ![cover](./assets/cover.svg?style=flat)
 
-## Running the project
+## ⚙️ Running the project
 
 Use **yarn** or **npm install** to install project dependencies.
 Then start the project.
