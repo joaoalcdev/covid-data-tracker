@@ -19,10 +19,13 @@
    />
 </p>
 
+## Demonstration
+
 <div align="center">
 
-  ![Click here to watch the project demo video](https://youtu.be/xZ-4Mbft59Q)
-  <img 
+[Click here](https://youtu.be/xZ-4Mbft59Q)to watch the project demo video.
+
+<img 
     src="./assets/cover.svg?style=flat"
     alt="Cover Project" 
    />
@@ -57,7 +60,6 @@ Application developed to have a basis to predict a possible contagion of covid d
   I would choose serverless as a viable option for this job. I would use a 'Function as a Service' (FaaS) like AWS Lambda. Serverless is a software and application design approach that allows developers to create and run services without having to manage and "configure" the work environment, as serverless as a cloud provider can predict and configure servers for future execution of their applications. , database and cloud storage systems as a function of scale.
 
 - Infrastructure:
-  
 
 ## 🔖 Layout
 
