@@ -22,14 +22,16 @@
 ## Demonstration
 
 <div align="center">
+  <h1 align="center">
 
-[Click here](https://youtu.be/xZ-4Mbft59Q) to watch the project demo video.
+  [Click here](https://youtu.be/xZ-4Mbft59Q) to watch the project demo video.
 
-<img 
+  <img 
     src="./assets/cover.mov?style=flat"
     alt="Cover Project" 
-   />
+  />
 
+  </h1>
 </div>
 
 ## 💻 Project
