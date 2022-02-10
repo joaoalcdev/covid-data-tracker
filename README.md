@@ -20,7 +20,7 @@
 </p>
 
 <div align="center">
-  <h1>[Click here to watch the project demo video](https://youtu.be/xZ-4Mbft59Q)</h1>
+  ![Click here to watch the project demo video](https://youtu.be/xZ-4Mbft59Q)
   ![cover](./assets/cover.svg?style=flat)
 </div>
 
