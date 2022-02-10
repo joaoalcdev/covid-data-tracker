@@ -3,8 +3,8 @@ const confirmDate = require('../helpers/confirmDate')
 
 describe('Data from the public API of "Our World In Data"', () => {
   test('yesterday cases greater than 0', async () => {
-    const data = await fetchDataFromAPI(new Date('2022/02/09'))
-    const yesterdayDate = confirmDate(new Date())
+    const data = await fetchDataFromAPI(new Date('2022/02/08'))
+    const yesterdayDate = confirmDate(new Date('2022/02/08'))
 
     const yesterday = data.find(data => data.date === yesterdayDate)
     const { new_cases: yesterdayCases } = yesterday

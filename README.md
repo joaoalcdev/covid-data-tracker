@@ -38,6 +38,14 @@
 
 Application developed to have a basis to predict a possible contagion of covid during the next few days.
 
+## 🔺 NOTE:
+
+In case the application does not show results, please check the latest data entry data on the website: [ourworldindata](https://ourworldindata.org/explorers/coronavirus-data-explorer?zoomToSelection=true&time=2020-03-01..latest&facet=none&pickerSort=asc&pickerMetric=location&Metric=Confirmed+cases&Interval=7-day+rolling+average&Relative+to+Population=true&Color+by+test+positivity=false&country=USA~GBR~CAN~DEU~ITA~IND)
+The site must present data that is a given day unless it is our current one.
+Example: 
+- Last dice roll (2022-02-09).
+- Current date (2022-02-10).
+
 ## :hammer_and_wrench: Features:
 
 - [x] OurWolrdInData API's Covid19.
@@ -58,8 +66,8 @@ Application developed to have a basis to predict a possible contagion of covid d
 
 ## ⌛️ Times destined for D3 Code Challenge:
 
-- Total hours since the first folder was created ≅ 34 hours, 20 minutes.
-- Total hours worked on the project ≅ 25 hours.
+- Total hours since the first folder was created ≅ 35 hours, 0 minutes.
+- Total hours worked on the project ≅ 25 hours, 0 minutes.
 - Total hours worked directly ≅ 8 hours, 20 minutes with intervals of two to three hours.
 
 ## 🔨 Architecture and Infrastructure for the Project:
