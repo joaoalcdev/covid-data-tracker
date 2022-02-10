@@ -46,6 +46,9 @@ Example:
 - Last dice roll (2022-02-09).
 - Current date (2022-02-10).
 
+- 🔺 | Commits inserted at once without modification, were automatically developed and tested on localhost using terminal interface with Node.Js and tested with Jest.
+
+
 ## :hammer_and_wrench: Features:
 
 - [x] OurWolrdInData API's Covid19.
