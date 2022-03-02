@@ -1,6 +1,6 @@
 <div align="center">
   <h1>
-    <p text-align="">Covid - Data Tracker Forecast</p> <img alt="D3 Logo" height="80" title="Plant Manager" src="https://marianazorron.com.br/site/wp-content/uploads/2020/04/corona-4931132_1280.png" /> 
+    <p text-align="">Covid - Data Tracker Forecast</p> <img alt="Logo" height="80" title="Plant Manager" src="https://marianazorron.com.br/site/wp-content/uploads/2020/04/corona-4931132_1280.png" /> 
   </h1>
 </div>
 
